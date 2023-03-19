@@ -6,4 +6,5 @@ Backend for a uni project of the modul "Webprogrammierung"
 Install Node.js
 
 npm install
+
 npm run dev
